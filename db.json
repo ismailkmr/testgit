@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "name": "Laptop",
+      "price": 1200,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "name": "Smartphone",
+      "price": 800,
+      "category": "Electronics",
+      "inStock": false
+    },
+    {
+      "id": "3",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "name": "Shoes",
+      "price": 100,
+      "category": "Fashion",
+      "inStock": true
+    },
+    {
+      "id": "02b6",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "name": "Ismail TKf",
+      "description": "fg",
+      "price": "54",
+      "category": "Home",
+      "stock": "54"
+    },
+    {
+      "id": "3b2c",
+      "name": "dfgdfh",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "description": "ftjgj",
+      "price": "455",
+      "category": "Electronics",
+      "stock": "343"
+    },
+    {
+      "id": "9950",
+      "name": "ffn",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "description": "fghb",
+      "price": "456",
+      "category": "Electronics",
+      "stock": "671"
+    },
+    {
+      "id": "2fb6",
+      "name": "bil",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "description": "fath",
+      "price": "1110",
+      "category": "Home",
+      "stock": "1111"
+    },
+    {
+      "id": "fb21",
+      "name": "mouseq",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "description": "mouse",
+      "price": "123",
+      "category": "Electronics",
+      "stock": "321"
+    },
+    {
+      "id": "8a25",
+      "name": "sdgg",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "description": "fddhdh",
+      "price": "35",
+      "category": "Electronics",
+      "stock": "53"
+    },
+    {
+      "id": "1f9e",
+      "name": "dsg",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "description": "sdgdg",
+      "price": "35",
+      "category": "Electronics",
+      "stock": "35"
+    },
+    {
+      "id": "2ba1",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "name": "dfvxcb",
+      "description": "cxbb",
+      "price": "35",
+      "category": "Fashion",
+      "stock": "34"
+    },
+    {
+      "id": "ab71",
+      "name": "dvxc",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      "description": "vcncnvc",
+      "price": "35",
+      "category": "Home",
+      "stock": "34"
+    },
+    {
+      "id": "5959",
+      "name": "cbcbv",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+
+      "description": "vcncn",
+      "price": "4234",
+      "category": "Home",
+      "inStock": true
+    },
+    {
+      "id": "6afd",
+      "name": "dgsg",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+
+      "description": "dsgggs",
+      "price": "324",
+      "category": "Electronics",
+      "stock": "45"
+    },
+    {
+      "id": "9abf",
+      "name": "rrr",
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/dell_i15rmt_10001slv_inspr_5521_i7_4500u_8gb_1tb_windows_8_64_15_6_1004782.jpg",
+      
+      "description": "ggg",
+      "price": "212",
+      "category": "Electronics",
+      "inStock": true
+    }
+  ]
+}
